@@ -1,0 +1,1 @@
+Solutions of Euler Project questions in Python language.
