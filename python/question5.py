@@ -7,7 +7,7 @@ def isAllNumsEqual(numArray):
 	return True
 
 
-def findGreatestCommonMultiplier(number):
+def findSmallestCommonMultiplier(number):
 	numArr = []
 	divisors = 1
 	primeDivisor = 2
@@ -30,4 +30,4 @@ def findGreatestCommonMultiplier(number):
 			else:
 				primeDivisor=3
 
-findGreatestCommonMultiplier(20)
+findSmallestCommonMultiplier(20)
