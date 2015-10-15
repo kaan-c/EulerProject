@@ -12,4 +12,4 @@ def findSquareSumsDifference(number):
 	result = squareOfSum-sumOfSquares
 	print("%.0f" % result)
 
-findSquareSumsDifference(20)
+findSquareSumsDifference(100)
